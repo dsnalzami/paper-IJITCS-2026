@@ -1,0 +1,4 @@
+window_sec,total_windows,videos_covered,videos_with_zero_windows,mean_missing_ratio,windows_missing_gt_0_5
+5,818,29,0,0.003186634066829666,0
+6,674,29,0,0.0031486976590834157,0
+10,387,29,0,0.0029026701119724374,0

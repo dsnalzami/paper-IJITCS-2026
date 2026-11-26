@@ -1,0 +1,4 @@
+model,subset,n_subjects,median_acc_noeyewear,median_acc_eyewear,median_diff,wilcoxon_p
+LogisticRegression,MOR_only,13,1.0,1.0,0.0,0.9453125
+RandomForest,Full_20feat,13,0.9230769230769231,0.8888888888888888,0.0,0.560546875
+LightGBM,Full_20feat,13,0.9230769230769231,0.9090909090909091,0.0,1.0

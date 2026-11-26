@@ -1,0 +1,30 @@
+filename,subject_id,another_face,num_faces_setting,fps,fps_fallback_30,n_frames,duration_sec,detection_rate,n_landmarks,frames_two_faces,frames_ambiguous,centroid_switches,extract_sec,eyewear_table,eyewear_binary,allow_picture
+1-FemaleNoGlasses.avi,Dash-Female-1,No,1,30.00030000300003,False,2741,91.365753,1.0,478,0,0,0,60.228102922439575,No Glasses,NoEyewear,Yes
+2-FemaleNoGlasses.avi,Dash-Female-2,No,1,30.00030000300003,False,2180,72.66593999999999,1.0,478,0,0,0,47.07565212249756,No Glasses,NoEyewear,Yes
+3-FemaleGlasses.avi,Dash-Female-3,No,1,30.00030000300003,False,3057,101.89898099999999,1.0,478,0,0,0,67.29144406318665,Prescription,Eyewear,Yes
+4-FemaleNoGlasses.avi,Dash-Female-4,No,1,30.00030000300003,False,1496,49.866167999999995,1.0,478,0,0,0,31.885891675949097,No Glasses,NoEyewear,Yes
+5-FemaleNoGlasses.avi,Dash-Female-5,No,1,30.00030000300003,False,2149,71.632617,1.0,478,0,0,0,47.30810856819153,No Glasses,NoEyewear,Yes
+6-FemaleNoGlasses.avi,Dash-Female-6,No,1,30.00030000300003,False,1491,49.699503,0.9932930918846412,478,0,0,0,32.125107288360596,No Glasses,NoEyewear,No
+7-FemaleNoGlasses.avi,Dash-Female-7,No,1,30.00030000300003,False,3618,120.598794,1.0,478,0,0,0,77.99395513534546,No Glasses,NoEyewear,Yes
+8-FemaleGlasses.avi.avi,Dash-Female-8,No,1,30.00030000300003,False,2297,76.565901,1.0,478,0,0,0,50.483546018600464,Prescription,Eyewear,Yes
+9-FemaleNoGlasses.avi,Dash-Female-9,Yes,2,30.00030000300003,False,1532,51.066156,1.0,478,0,0,0,37.20448303222656,No Glasses,NoEyewear,Yes
+10-FemaleNoGlasses.avi,Dash-Female-10,Yes,2,30.00030000300003,False,1217,40.566261,0.990139687756779,478,0,0,0,29.296600580215454,No Glasses,NoEyewear,Yes
+11-FemaleGlasses.avi.avi,Dash-Female-11,No,1,30.00030000300003,False,1683,56.099439,1.0,478,0,0,0,35.95771527290344,Sun Glasses,Eyewear,Yes
+12-FemaleGlasses.avi.avi,Dash-Female-12,No,1,30.00030000300003,False,2518,83.93249399999999,0.9511517077045274,478,0,0,0,56.23071837425232,Prescription,Eyewear,Yes
+13-FemaleGlasses.avi.avi,Dash-Female-13,No,1,30.00030000300003,False,2488,82.932504,1.0,478,0,0,0,55.01903748512268,Prescription,Eyewear,Yes
+1-MaleGlasses.avi,Dash-Male-1,No,1,30.00030000300003,False,2576,85.865808,1.0,478,0,0,0,56.135199308395386,Prescription,Eyewear,Yes
+2-MaleGlasses.avi,Dash-Male-2,No,1,30.00030000300003,False,2364,78.799212,0.9983079526226735,478,0,0,0,51.55711531639099,Prescription,Eyewear,Yes
+3-MaleGlasses.avi,Dash-Male-3,No,1,30.00030000300003,False,2086,69.53263799999999,0.9995206136145733,478,0,0,0,44.09459638595581,Prescription,Eyewear,Yes
+4-MaleNoGlasses.avi,Dash-Male-4,No,1,30.00030000300003,False,1998,66.599334,1.0,478,0,0,0,42.334473848342896,No Glasses,NoEyewear,No
+5-MaleGlasses.avi,Dash-Male-5,No,1,30.00030000300003,False,2395,79.832535,1.0,478,0,0,0,52.05553364753723,Prescription,Eyewear,Yes
+6-MaleGlasses.avi,Dash-Male-6,No,1,30.00030000300003,False,1633,54.432789,1.0,478,0,0,0,34.957006216049194,Prescription,Eyewear,Yes
+7-MaleGlasses.avi,Dash-Male-7,Yes,2,30.00030000300003,False,2398,79.93253399999999,1.0,478,0,0,0,58.92976498603821,Prescription,Eyewear,Yes
+8-MaleNoGlasses.avi,Dash-Male-8,No,1,30.00030000300003,False,2179,72.632607,0.9995410738871042,478,0,0,0,47.69840359687805,No Glasses,NoEyewear,Yes
+9-MaleNoGlasses.avi,Dash-Male-9,No,1,30.00030000300003,False,2020,67.33265999999999,1.0,478,0,0,0,44.02117872238159,No Glasses,NoEyewear,Yes
+10-MaleGlasses.avi,Dash-Male-10,No,1,30.00030000300003,False,2418,80.599194,1.0,478,0,0,0,52.69089603424072,Prescription,Eyewear,Yes
+11-MaleGlasses.avi,Dash-Male-11,Yes,2,30.00030000300003,False,1760,58.666079999999994,0.9715909090909091,478,0,0,0,42.79679346084595,Prescription,Eyewear,Yes
+12-MaleGlasses.avi,Dash-Male-12,No,1,30.00030000300003,False,1957,65.232681,1.0,478,0,0,0,42.50486898422241,Prescription,Eyewear,Yes
+13-MaleNoGlasses .avi,Dash-Male-13,No,1,30.00030000300003,False,2190,72.99927,1.0,478,0,0,0,46.24946999549866,No Glasses,NoEyewear,Yes
+14-MaleNoGlasses.avi,Dash-Male-14,No,1,30.00030000300003,False,3010,100.33233,1.0,478,0,0,0,65.30566811561584,No Glasses,NoEyewear,Yes
+15-MaleGlasses.avi,Dash-Male-15,No,1,30.00030000300003,False,2639,87.96578699999999,1.0,478,0,0,0,56.380515813827515,Prescription,Eyewear,Yes
+16-MaleNoGlasses.avi,Dash-Male-16,Yes,2,30.00030000300003,False,2503,83.43249899999999,0.9996004794246903,478,916,0,0,71.32596802711487,No Glasses,NoEyewear,Yes

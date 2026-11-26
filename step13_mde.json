@@ -1,0 +1,9 @@
+{
+  "pair": [
+    "E2|LogisticRegression|MOR_only|w10",
+    "E2|LightGBM|Full_20feat|w10"
+  ],
+  "se_corr": 0.012663863259498654,
+  "df": 14,
+  "mde_alpha05_power80": 0.03815421239197012
+}

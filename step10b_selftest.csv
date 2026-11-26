@@ -1,0 +1,2 @@
+videos,videos_with_length_mismatch,frames_compared,frames_mismatched,frames_mismatched_fraction,frames_nan_pattern_differs,frame_max_abs_diff,videos_with_any_mismatch,window_max_abs_diff_vs_step03,windows_affected,windows_total,windows_affected_fraction,windows_affected_yawning,passed
+301,0,212014,2211,0.010428556604752516,10,0.1456,9,0.05620000000000003,16,964,0.016597510373443983,2,False

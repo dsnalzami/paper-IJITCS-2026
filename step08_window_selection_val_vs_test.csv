@@ -1,0 +1,13 @@
+model,window_sec,val_macro_f1_best_trial,test_macro_f1_mean,selected_by_validation,selected_by_test,agree
+LightGBM,5,0.8379,0.802,10,10,True
+LightGBM,6,0.868,0.8222,10,10,True
+LightGBM,10,0.9527,0.8544,10,10,True
+LogisticRegression,5,0.7878,0.7529,10,10,True
+LogisticRegression,6,0.8547,0.8006,10,10,True
+LogisticRegression,10,0.948,0.8602,10,10,True
+RandomForest,5,0.8486,0.8184,10,10,True
+RandomForest,6,0.8708,0.8328,10,10,True
+RandomForest,10,0.9318,0.8899,10,10,True
+XGBoost,5,0.8435,0.7995,10,10,True
+XGBoost,6,0.8693,0.8253,10,10,True
+XGBoost,10,0.9527,0.8565,10,10,True

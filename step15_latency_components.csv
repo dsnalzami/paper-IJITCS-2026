@@ -1,0 +1,12 @@
+component,median_ms,p95_ms,n,note
+"C1 MediaPipe VIDEO mode, per frame",14.67829950001942,15.815400999971983,3570,includes landmark tracking; MediaPipe internal threading not controlled
+"C2 MediaPipe IMAGE mode, per frame",17.76423900000168,18.789055149980527,570,detection on every call
+C3a per-frame MOR only,0.034577500002797024,0.04532625002013902,300,
+C3b per-frame EAR + MOR + head pose,0.2778214999921147,0.31613620000996445,300,
+"C4a window stats, MOR only (4 features)",0.09909050001510877,0.11526039998273063,300,
+"C4b window stats, full (20 features)",0.31110350002450105,0.3464765499956002,300,
+C5 face crop + resize to 160 px,0.33949200002325597,0.374292399993692,300,
+C5 face crop + resize to 224 px,0.6477234999806569,0.6768665499748749,300,
+"C7 MobileNetV4-S backbone, 160 px",11.15638749999448,12.23745130001248,100,
+"C7 MobileNetV4-S backbone, 224 px",16.1690619999888,17.113267249985142,100,
+C6 GRU head over 50 embeddings,1.6107569999803673,1.953853499986735,100,

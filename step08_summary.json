@@ -1,0 +1,8 @@
+{
+  "within_subjects_n": 13,
+  "lighting_confounded_n": 1,
+  "flagged_subjects": [
+    "Male-12",
+    "Male-5"
+  ]
+}

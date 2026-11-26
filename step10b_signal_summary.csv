@@ -1,0 +1,2 @@
+frames_valid,pearson_frame,spearman_frame,ratio_cheb_over_euclid_median_mor_gt_0.02,ratio_p5,ratio_p95,mean_abs_difference,pearson_window_mean,cohen_d_window_mean_yawning_vs_rest_euclid,cohen_d_window_mean_yawning_vs_rest_chebyshev
+210463,0.9990518824853232,0.9984862070092594,0.9976148830689693,0.9211137306676727,1.0162912615129758,0.0021368440058347543,0.9994094219770848,1.528323836777883,1.5064138607456168

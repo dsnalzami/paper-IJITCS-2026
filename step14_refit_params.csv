@@ -1,0 +1,4 @@
+config,best_params,hpo_cv_macro_f1_optimistic,n_windows
+LogisticRegression__MOR_only,"{""C"": 64.23608199551845, ""penalty"": ""l2""}",0.892062216818321,964
+RandomForest__Full_20feat,"{""n_estimators"": 201, ""max_depth"": 10, ""min_samples_split"": 5, ""min_samples_leaf"": 5, ""max_features"": ""log2""}",0.8880311147347257,964
+LightGBM__Full_20feat,"{""n_estimators"": 435, ""learning_rate"": 0.010807917779033034, ""num_leaves"": 64, ""max_depth"": 12, ""min_child_samples"": 26, ""subsample"": 0.7367984500279076, ""colsample_bytree"": 0.7516012044776652}",0.8924931125818667,964

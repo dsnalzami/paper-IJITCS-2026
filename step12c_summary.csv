@@ -1,0 +1,2 @@
+model,n_folds,macro_f1_mean,macro_f1_std,accuracy_mean,f1_yawning_mean,inner_best_mean,best_epoch_median,n_params,flops_per_window,train_time_mean,infer_per_1k_mean
+MobileNetV4S_GRU_finetuned,15,0.8826126511915363,0.035599528088601666,0.8816120863054349,0.9100558319965161,0.915677025547205,10.0,2694435,9505030784,194.84941356966675,6.373276640646284

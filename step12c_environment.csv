@@ -1,0 +1,7 @@
+package,version
+python,3.13.16
+torch,2.11.0+cu130
+timm,1.0.30
+opencv,4.14.0
+scikit-learn,1.6.1
+gpu,Tesla T4

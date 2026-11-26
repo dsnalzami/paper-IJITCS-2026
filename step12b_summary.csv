@@ -1,0 +1,2 @@
+model,backbone,n_folds,macro_f1_mean,macro_f1_std,accuracy_mean,f1_yawning_mean,inner_best_mean,head_params_median,total_params_median,total_flops_per_window_median,epochs_median,train_time_mean,hpo_time_total
+MobileNetV4S_GRU,mobilenetv4_conv_small.e2400_r224_in1k,15,0.5856685052533304,0.05537805235912955,0.5882207546708871,0.605140483841861,0.5818459482144154,214083.0,2707107.0,18493856384.0,29.0,2.5825967742000215,1250.3522857070002

@@ -1,0 +1,7 @@
+{
+  "selected_window": 10,
+  "selection_counts": {
+    "10": 60
+  },
+  "rule": "mode of inner-CV selections over models and outer folds"
+}
