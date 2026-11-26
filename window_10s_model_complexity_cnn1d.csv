@@ -1,0 +1,2 @@
+model,structural_complexity,note,best_params
+CNN1D,32451,true trainable parameter count (not nominal like the tree models),"{""base_channels"": 32, ""kernel_size"": 3, ""dropout"": 0.42407706411776186, ""lr"": 0.003968278596158006, ""weight_decay"": 0.0009453027006377783, ""batch_size"": 128}"

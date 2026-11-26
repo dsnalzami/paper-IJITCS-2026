@@ -1,0 +1,25 @@
+{
+  "best_model_name": "LogisticRegression",
+  "feature_subset": "MOR_only",
+  "best_params": {
+    "C": 14.528246637516036,
+    "penalty": "l1"
+  },
+  "feature_cols": [
+    "MOR_mean",
+    "MOR_std",
+    "MOR_min",
+    "MOR_max"
+  ],
+  "class_names": {
+    "0": "Normal",
+    "1": "Talking",
+    "2": "Yawning"
+  },
+  "deploy_seed": 42,
+  "deploy_test_macro_f1": 0.9157168614572265,
+  "deploy_test_accuracy": 0.9209039548022598,
+  "trained_on": "train+val (window_sec=10)",
+  "scaler_fit_on": "train+val (window_sec=10)",
+  "compare_against": "best_model_RandomForest.joblib (Full_20feat) from Stage 3, see full_ablation_summary.csv vs model_comparison_summary.csv"
+}

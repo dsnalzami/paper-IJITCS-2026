@@ -1,0 +1,4 @@
+metric,value
+correlation,0.99905954849514
+cohens_d_euclidean,0.5627928374957121
+cohens_d_chebyshev,0.5581782746690147

@@ -1,0 +1,2 @@
+model,structural_complexity,note,best_params
+GRU,105987,true trainable parameter count (not nominal like the tree models),"{""hidden_size"": 128, ""num_layers"": 1, ""bidirectional"": true, ""dropout"": 0.41512126938972294, ""lr"": 0.00019351952690483193, ""weight_decay"": 6.129087672793903e-05, ""batch_size"": 32}"

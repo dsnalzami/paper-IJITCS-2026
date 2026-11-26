@@ -1,0 +1,11 @@
+model,seed,macro_f1
+RandomForest_ChebyshevMOR,0,0.8850632750166034
+RandomForest_ChebyshevMOR,1,0.8912361145227763
+RandomForest_ChebyshevMOR,2,0.8850632750166034
+RandomForest_ChebyshevMOR,3,0.8850632750166034
+RandomForest_ChebyshevMOR,4,0.8850632750166034
+RandomForest_ChebyshevMOR,5,0.8850632750166034
+RandomForest_ChebyshevMOR,6,0.8855260681347638
+RandomForest_ChebyshevMOR,7,0.8850632750166034
+RandomForest_ChebyshevMOR,8,0.890251235933326
+RandomForest_ChebyshevMOR,9,0.8850632750166034

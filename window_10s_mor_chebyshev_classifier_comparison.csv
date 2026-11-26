@@ -1,0 +1,2 @@
+euclidean_mean,euclidean_std,chebyshev_mean,chebyshev_std,mean_diff_euclidean_minus_chebyshev,wilcoxon_stat,wilcoxon_p,significant_at_0.05
+0.8899369474748836,0.005315444863382818,0.8862456343707089,0.002386380967309109,0.0036913131041747095,11.0,0.1953125,False

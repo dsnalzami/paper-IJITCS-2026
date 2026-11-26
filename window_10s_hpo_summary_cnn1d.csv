@@ -1,0 +1,2 @@
+model,best_val_macro_f1,hpo_time_sec,best_params
+CNN1D,0.9523188708107356,45.42554937099999,"{""base_channels"": 32, ""kernel_size"": 3, ""dropout"": 0.42407706411776186, ""lr"": 0.003968278596158006, ""weight_decay"": 0.0009453027006377783, ""batch_size"": 128}"

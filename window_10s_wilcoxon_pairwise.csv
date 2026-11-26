@@ -1,0 +1,7 @@
+model_a,model_b,mean_diff_a_minus_b,wilcoxon_stat,p_raw,p_bonferroni,significant_at_0.05_corrected
+LogisticRegression,RandomForest,-0.029761153019170473,0.0,0.001953125,0.01171875,True
+LogisticRegression,LightGBM,0.005781328516300555,6.0,0.02734375,0.1640625,False
+LogisticRegression,XGBoost,0.0037040031897820347,15.0,0.220703125,1.0,False
+RandomForest,LightGBM,0.03554248153547103,0.0,0.001953125,0.01171875,True
+RandomForest,XGBoost,0.033465156208952504,0.0,0.001953125,0.01171875,True
+LightGBM,XGBoost,-0.0020773253265185198,21.0,0.556640625,1.0,False

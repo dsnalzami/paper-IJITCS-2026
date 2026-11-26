@@ -1,0 +1,2 @@
+chi2,p_chi2_asymptotic,dof,min_expected_count,chi2_assumption_ok,p_montecarlo,n_permutations,significant_at_0.05
+3.823992592040171,0.14778506917761702,2,2.3389830508474576,False,0.17727,100000,False

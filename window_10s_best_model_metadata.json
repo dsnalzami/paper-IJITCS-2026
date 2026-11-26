@@ -1,0 +1,42 @@
+{
+  "best_model_name": "RandomForest",
+  "best_params": {
+    "n_estimators": 463,
+    "max_depth": 18,
+    "min_samples_split": 9,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "feature_cols": [
+    "EAR_mean",
+    "EAR_std",
+    "EAR_min",
+    "EAR_max",
+    "MOR_mean",
+    "MOR_std",
+    "MOR_min",
+    "MOR_max",
+    "Pitch_mean",
+    "Pitch_std",
+    "Pitch_min",
+    "Pitch_max",
+    "Yaw_mean",
+    "Yaw_std",
+    "Yaw_min",
+    "Yaw_max",
+    "Roll_mean",
+    "Roll_std",
+    "Roll_min",
+    "Roll_max"
+  ],
+  "class_names": {
+    "0": "Normal",
+    "1": "Talking",
+    "2": "Yawning"
+  },
+  "deploy_seed": 42,
+  "deploy_test_macro_f1": 0.8958924491700874,
+  "deploy_test_accuracy": 0.8983050847457628,
+  "trained_on": "train+val (window_sec=10)",
+  "scaler_fit_on": "train+val (window_sec=10)"
+}

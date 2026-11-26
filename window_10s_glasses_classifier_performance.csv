@@ -1,0 +1,4 @@
+glasses,n_windows,accuracy
+Glasses,44,0.9545
+NoGlasses,110,0.8636
+SunGlasses,23,0.9565
