@@ -1,0 +1,16 @@
+Comparison (A minus B),Difference,95% CI,"p, two-sided",90% CI,"p, TOST"
+H1: LR MOR only minus LightGBM Full,-0.008,"[-0.035, 0.019]",0.537,"[-0.030, 0.014]",0.180
+"F1, LR: MOR only minus Full",+0.004,"[-0.027, 0.036]",0.763,"[-0.021, 0.030]",0.203
+"F1, RF: MOR only minus Full",+0.000,"[-0.017, 0.017]",0.964,"[-0.014, 0.014]",0.053
+"F1, LightGBM: MOR only minus Full",-0.005,"[-0.024, 0.013]",0.543,"[-0.021, 0.010]",0.178
+"F1, XGBoost: MOR only minus Full",-0.007,"[-0.028, 0.013]",0.447,"[-0.024, 0.009]",0.203
+"F3, RF: minus LR (MOR only)",+0.004,"[-0.028, 0.036]",1.000,"[-0.022, 0.031]",-
+"F3, LightGBM: minus LR (MOR only)",+0.003,"[-0.028, 0.033]",1.000,"[-0.023, 0.028]",-
+"F3, XGBoost: minus LR (MOR only)",-0.002,"[-0.043, 0.038]",1.000,"[-0.035, 0.031]",-
+"F4, CNN1D: minus LR MOR only",-0.002,"[-0.044, 0.041]",1.000,"[-0.037, 0.034]",0.933
+"F4, GRU: minus LR MOR only",-0.016,"[-0.091, 0.060]",1.000,"[-0.078, 0.046]",0.948
+"F4, Transformer: minus LR MOR only",-0.010,"[-0.054, 0.034]",1.000,"[-0.046, 0.026]",0.948
+"F4, MobileNetV4-S + GRU (fine-tuned): minus LR MOR only",-0.004,"[-0.049, 0.042]",1.000,"[-0.041, 0.034]",0.933
+"F4, MobileNetV4-S + GRU (frozen): minus LR MOR only",-0.300,"[-0.371, -0.230]",<0.001,"[-0.358, -0.243]",1.000
+F2: MOR only minus EAR only or head pose only (8 tests),+0.369 to +0.448,-,all <0.001,-,-
+"F5: 10 s minus 6 s or 5 s, Full 20 features (8 tests)",+0.054 to +0.121,-,all <= 0.0003,-,-

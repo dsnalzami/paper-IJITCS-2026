@@ -1,0 +1,4 @@
+Model,Windows / subjects,"Accuracy, no eyewear","Accuracy, eyewear",Odds ratio [95% CI],Holm p,"Within-subject accuracy change (median, p)"
+"LR, MOR only",964 / 90,0.877,0.900,"1.19 [0.60, 2.37]",1.000,+0.000 (p = 0.945)
+"RF, Full",964 / 90,0.882,0.903,"1.16 [0.63, 2.13]",1.000,+0.000 (p = 0.561)
+"LightGBM, Full",964 / 90,0.891,0.914,"1.34 [0.68, 2.61]",1.000,+0.000 (p = 1.000)

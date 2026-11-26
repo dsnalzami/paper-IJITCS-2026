@@ -1,0 +1,10 @@
+Item,Specification
+Landmark detector,"MediaPipe FaceLandmarker, face_landmarker.task (float16), 478 landmarks per face (468 mesh points and 10 iris points); running mode VIDEO; one face (two faces for the five Dash videos flagged with another person, largest face kept); detection, presence, and tracking confidence 0.5; detector created anew for every video"
+Eye aspect ratio,"Image-left eye 33, 160, 158, 133, 153, 144; image-right eye 362, 385, 387, 263, 373, 380 (the image-left eye is the MediaPipe right eye); mean of both eyes"
+Mouth opening ratio,"Inner lip 78, 81, 402, 308, 311, 178"
+Head pose landmarks,"1, 152, 33, 263, 61, 291"
+Three-dimensional face model,"Six points in mm: (0, 0, 0), (0, $-$330, $-$65), ($-$225, 170, $-$135), (225, 170, $-$135), ($-$150, $-$150, $-$125), (150, $-$150, $-$125)"
+Camera model,"Focal length equal to the frame width in pixels, principal point at the frame center, zero lens distortion"
+Pose solver,"OpenCV solvePnP with SOLVEPNP_ITERATIVE, Rodrigues conversion, RQDecomp3x3; Pitch, Yaw, and Roll in degrees, rounded to four decimals"
+Windowing,"10 s windows with 50% overlap, trailing frames dropped, NaN-aware mean, standard deviation, minimum, and maximum; circular statistics for Pitch and Roll"
+Frame rate,"Mirror 29.97 fps, Dash 30.0003 fps (video metadata); 300 frames per 10 s window in both subsets"

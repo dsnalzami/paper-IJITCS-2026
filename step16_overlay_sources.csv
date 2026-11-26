@@ -1,0 +1,4 @@
+figure,class,filename,subject_id,allow_picture,frame_idx,EAR_stored,MOR_stored,EAR_redrawn,MOR_redrawn,Yaw_stored,subject_median_abs_yaw,frame_px,crop_px,image_ppi_at_print_size
+fig_landmark_overlay,Normal,35-MaleNoGlasses-Normal.avi,Male-35,Yes,53,0.3177,0.0102,0.3177,0.0102,-20.2663,18.22,640x480,395,184.0
+fig_landmark_overlay,Talking,35-MaleNoGlasses-Talking.avi,Male-35,Yes,316,0.2885,0.1502,0.2885,0.1502,1.1904,18.22,640x480,408,190.0
+fig_landmark_overlay,Yawning,35-MaleNoGlasses-Yawning.avi,Male-35,Yes,178,0.2826,0.6073,0.2827,0.6073,-24.6573,18.22,640x480,444,207.0

@@ -1,0 +1,4 @@
+Model,Videos with a Yawning window,Videos with a Talking window,Videos with a Normal window,"Mean share, % (N / T / Y)",Yawning in over half of windows
+"LR, MOR only",27 / 29,29 / 29,13 / 29,7 / 52 / 40,6 / 29
+"RF, Full",28 / 29,29 / 29,8 / 29,3 / 50 / 47,10 / 29
+"LightGBM, Full",28 / 29,29 / 29,7 / 29,3 / 52 / 44,8 / 29

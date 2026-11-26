@@ -1,0 +1,12 @@
+figure,group,latex_width_cm,height_cm,pixels_w,pixels_h,effective_dpi,dpi_metadata,min_font_pt,ok_dpi,ok_font
+fig_window_selection,A,12.5,7.6,1476,897,299.9,300.0,8.0,True,True
+fig_ablation_heatmap,A,17.0,6.4,2007,755,299.9,300.0,8.0,True,True
+fig_forest_paired,A,17.0,9.8,2007,1157,299.9,300.0,8.0,True,True
+fig_eyewear,A,17.0,6.6,2007,779,299.9,300.0,8.0,True,True
+fig_dash_crossview,A,17.0,12.6,2007,1488,299.9,300.0,8.0,True,True
+fig_pareto_framerate,A,17.0,8.4,2007,992,299.9,300.0,8.0,True,True
+fig_framework,A,17.0,10.9,2007,1287,299.9,300.0,8.0,True,True
+fig_cv_protocol,A,17.0,8.97,2007,1059,299.9,300.0,8.0,True,True
+fig_landmark_definition,A,12.0,4.44,1417,524,299.9,300.0,9.0,True,True
+fig_landmark_overlay,B,17.0,7.4,2007,874,299.9,300.0,8.0,True,True
+fig_prediction_examples,B,17.0,11.8,2007,1393,299.9,300.0,8.0,True,True

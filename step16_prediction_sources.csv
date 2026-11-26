@@ -1,0 +1,9 @@
+kind,filename,window_idx,y_true,pred_lgb,pred_lr,frame,mor_mean,p_pred,true,lightgbm,lr
+Correct,42-MaleNoGlasses-Normal.avi,0,0,0,0,149,0.011945,0.986885790817866,Normal,Normal,Normal
+Correct,36-MaleSunGlasses-Talking.avi,3,1,1,1,599,0.117546,0.9758784351933952,Talking,Talking,Talking
+Correct,18-MaleNoGlasses-Yawning.avi,0,2,2,2,149,0.3153773333333333,0.9912872835925786,Yawning,Yawning,Yawning
+Error,12-FemaleNoGlasses-Normal.avi,0,0,1,1,149,0.1951553333333333,0.8932004331081016,Normal,Talking,Talking
+Error,42-MaleNoGlasses-Talking.avi,1,1,0,0,299,0.0334236666666666,0.7203433080098908,Talking,Normal,Normal
+Error,11-MaleGlasses-Yawning.avi,0,2,1,1,149,0.107247,0.9594195176231872,Yawning,Talking,Talking
+Error,18-FemaleNoGlasses-Yawning.avi,1,2,0,1,299,0.0386353333333333,0.6779449240282472,Yawning,Normal,Talking
+Error,17-FemaleNoGlasses-Talking.avi,3,1,2,1,599,0.2336106666666666,0.9974419485586687,Talking,Yawning,Talking
